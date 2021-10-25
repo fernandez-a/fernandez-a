@@ -24,4 +24,4 @@
 ## 📈 GitHub Stats 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fernandez-a&show_icons=true&locale=en&layout=compact" alt="fernandez-a" /></p>
-<h1 align="center"><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fernandez-a&show_icons=true&locale=en" alt="fernandez-a" /></p><h1>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fernandez-a&show_icons=true&locale=en" alt="fernandez-a" /></p>
