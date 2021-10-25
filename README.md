@@ -22,6 +22,5 @@
 ![MySQL](https://img.shields.io/badge/code-mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 📈 GitHub Stats 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fernandez-a&show_icons=true&locale=en&layout=compact" alt="fernandez-a" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fernandez-a&show_icons=true&locale=en" alt="fernandez-a" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandez-a&layout=compact)](https://github.com/fernandez-a/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandez-a&show_icons=true&theme=radical)
