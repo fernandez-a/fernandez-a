@@ -21,6 +21,6 @@
 ![MongoDB](https://img.shields.io/badge/code-MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/code-mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 📈 GitHub Stats 
+## 📈 GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandez-a&layout=compact)](https://github.com/fernandez-a/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandez-a&show_icons=true&theme=radical)
