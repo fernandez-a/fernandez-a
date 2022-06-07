@@ -3,9 +3,9 @@
 
 
 
-- 🌱 I’m currently learning **Javascript,Typescript**
+- 🌱 I’m currently learning Typescript**
 
-- 💬 Ask me about **python**
+- 💬 Ask me about **python** **javascript**
 
 - 📫 How to reach me **alejandro.fernandezarmas@gmail.com**
 
