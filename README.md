@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning Typescript**
 
-- 💬 Ask me about **python** **javascript**
+- 💬 Ask me about **python** , **javascript**
 
 - 📫 How to reach me **alejandro.fernandezarmas@gmail.com**
 
