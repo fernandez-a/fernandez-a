@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning Typescript**
+- 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **python** , **javascript**
 
